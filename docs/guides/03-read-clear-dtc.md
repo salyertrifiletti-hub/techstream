@@ -77,4 +77,10 @@
 | C1201 | Неисправность ABS/VSC — читайте в разделе Chassis |
 | B1421 | SRS — проверьте разъёмы под сиденьями |
 
+## Источники со скриншотами
+
+- [NHTSA TSB SB-10062028-2280 (Toyota, PDF)](https://static.nhtsa.gov/odi/tsbs/2013/SB-10062028-2280.pdf) — официальный бюллетень Toyota с иллюстрациями `Trouble Codes`, `Freeze Frame`, `Clear DTC`.
+- [NHTSA TSB MC-10132450-9999 (Toyota iA 2016, PDF)](https://static.nhtsa.gov/odi/tsbs/2017/MC-10132450-9999.pdf) — какие коды нельзя удалить и при каких условиях.
+- [Toyota Owners Club — Techstream related question](https://toyotaownersclub.com/forums/topic/187925-techstream-related-question) — нюансы отображения DTC и работы с Freeze Frame.
+
 **Следующий шаг:** [04. Сброс адаптации АКПП →](04-reset-at-adaptation.md)

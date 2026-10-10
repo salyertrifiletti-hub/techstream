@@ -67,4 +67,11 @@
 | «Error: HASP not found» | Повторно примените патч, запустите от имени администратора |
 | Крашится при запуске | Установите Microsoft Visual C++ 2010 Redistributable (x86) |
 
+## Источники со скриншотами
+
+- [Drive2 — «Установка Techstream на Windows 7, 8.1, 10 — x64 bit»](https://www.drive2.ru/b/479152325051547873/) — пошагово с живыми скриншотами, обходной путь через `msiexec /a` для 64-битной Windows.
+- [PriusChat — Techstream inconsistencies](https://priuschat.com/goto/post?id=2444747) — частые проблемы с драйверами FTDI и COM-портом.
+- [RTS Auto PDF — MVCI Driver ended prematurely](https://www.rtsauto.com/wp-content/uploads/2019/10/MVCI-Driver-ended-prematurely-error.pdf) — разбор ошибки инсталлятора с иллюстрациями.
+- [newhilux.net — Techstream + mini-VCI HOW-TO](https://www.newhilux.net/phpbb/viewtopic.php?p=289699) — англоязычный гайд с подробными скриншотами.
+
 **Следующий шаг:** [02. Первое подключение к автомобилю →](02-connect-to-vehicle.md)

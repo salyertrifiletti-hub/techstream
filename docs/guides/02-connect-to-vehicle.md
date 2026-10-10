@@ -76,4 +76,10 @@
 | *Vehicle not supported* | Выбран неверный год/регион TechStream |
 | *CAN bus error* | Проблема с проводкой CAN-шины, обрыв витой пары |
 
+## Источники со скриншотами
+
+- [Toyota Owners Club — «How to connect your laptop to the OBD socket»](https://toyotaownersclub.com/forums/topic/156801-how-to-connect-your-laptop-to-the-obd-socket) — фото OBD-разъёма на разных моделях и скриншоты окна подключения.
+- [PriusChat — proper procedure when using MINI VCI](https://priuschat.com/goto/post?id=2160919) — правильный порядок запуска: TechStream → кабель → зажигание.
+- [Toyota Owners Club — «Success with Techstream»](https://toyotaownersclub.com/forums/topic/186797-success-with-techstream) — скриншоты выбора модели, года и двигателя.
+
 **Следующий шаг:** [03. Чтение и сброс кодов неисправностей →](03-read-clear-dtc.md)

@@ -88,4 +88,11 @@
 | Горит VSC после калибровки | Не вышли из Test Mode / значения не сохранились |
 | Руль «ушёл» на 1–2 градуса | Калибровку делали с не точно выставленным рулём |
 
+## Источники со скриншотами
+
+- [vehicleservicepros.com — Toyota zero point calibration (TSB 2014)](https://www.vehicleservicepros.com/tsbs/article/53092346/toyota-zero-point-calibration-2014-10-06) — переопубликованный Toyota TSB со скриншотами меню TechStream.
+- [ClubLexus — Zero point calibration via Techstream](https://www.clublexus.com/forums/ls-3rd-gen-2001-2006/789241-how-to-do-a-zero-point-calibration-via-techstream.html) — пошагово с живыми скриншотами Utility → Test Mode.
+- [PriusChat PDF — Prius SM Yaw Rate Zero Point](https://attachments.priuschat.com/attachment-files/2024/05/250911_Prius_SM_-_Yaw_Rate_and_Acceleration_Zero_Point.pdf) — страницы сервисного мануала Prius со схемами.
+- [NHTSA TSB MC-10109460-9999 (PDF)](https://static.nhtsa.gov/odi/tsbs/2014/MC-10109460-9999.pdf) — инициализация VGRS: поездка по прямой ≥35 км/ч ≥5 секунд.
+
 **Следующий шаг:** [07. Прокачка тормозов через Active Test (ABS) →](07-abs-bleeding.md)

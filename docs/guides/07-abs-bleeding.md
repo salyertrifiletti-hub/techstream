@@ -90,4 +90,10 @@
 3. Убедитесь, что в бачке не было воздуха (уровень не опускался ниже MIN).
 4. Проверьте вакуумный усилитель — иногда симптомы схожи.
 
+## Источники со скриншотами
+
+- [PriusChat — Bleeding brakes with Techstream](https://www.priuschat.com/goto/post?id=2862028) — разбор ошибки «air bleeding has failed», нюансы с реле мотора ABS.
+- [ih8mud.com — ABS bleed harness](https://forum.ih8mud.com/threads/abs-bleed-harness.1370459/) — обсуждение по Land Cruiser, что умеет и чего не умеет Active Test.
+- [NHTSA TSB MC-10220187-9999 (PDF)](https://static.nhtsa.gov/odi/tsbs/2022/MC-10220187-9999.pdf) — пример официальной процедуры Active Test с требованиями к версии ПО.
+
 **Следующий шаг:** [08. Сброс сервисного интервала и регистрация АКБ →](08-service-reset-battery.md)

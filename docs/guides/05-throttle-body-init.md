@@ -74,4 +74,10 @@ Toyota рекомендует простой алгоритм — он рабо�
 | Обороты скачут | Неисправный датчик ТРS, грязный РХХ |
 | После чистки заслонки — не заводится | Повреждены контакты разъёма, окислились после мойки |
 
+## Источники со скриншотами
+
+- [Toyota Owners Club — Throttle re-learn procedure](https://toyotaownersclub.com/forums/topic/195291-throttle-re-learn-procedure) — выдержка из сервисной информации Toyota.
+- [TPautoRepair — reset electronic throttle control](https://tpautorepair.net/how-do-i-reset-the-electronic-throttle-control/) — объяснение процедуры idle learn с иллюстрациями.
+- [2CarPros — обсуждение P1589](https://2carpros.com/questions/acceleration-learning-value--1661232) — живые значения Data List: TPS% и acceleration learning value.
+
 **Следующий шаг:** [06. Калибровка нулевой точки датчиков →](06-zero-point-calibration.md)

@@ -91,4 +91,9 @@
 
 ---
 
+## Источники со скриншотами
+
+- [Toyota Owners Club — Maintenance Reset discussion](https://toyotaownersclub.com/forums/topic/187925-techstream-related-question) — как сбросить MAINT REQD через Combination Meter → Utility.
+- [PriusChat — Reset ABS light & yellow (!)](https://www.priuschat.com/goto/post?id=2825983) — сбросы после работ с АКБ и инициализация датчика тока.
+
 **Все инструкции:** [← вернуться к оглавлению](../../README.md)
