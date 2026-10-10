@@ -16,7 +16,7 @@
 - Автомобиль **полностью неподвижен**, никто внутри не двигается.
 - Педали **не нажаты**.
 
-![Автомобиль на ровной площадке](images/06-zero-01-flat-surface.png)
+![Автомобиль на ровной площадке](images/06-zero-01-flat-surface.svg)
 
 ---
 
@@ -56,7 +56,7 @@
 3. Нажмите **Next** → **Start**.
 4. Дождитесь сообщения *«Calibration completed»*.
 
-![Zero Point Calibration](images/06-zero-05-calibration.png)
+![Zero Point Calibration](images/06-zero-05-calibration.svg)
 
 > 💡 Калибровка выполняется **только один раз** после входа в Test Mode. Чтобы повторить — снова выполните Reset Memory.
 

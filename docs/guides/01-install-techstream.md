@@ -47,7 +47,7 @@
    - `USB Serial Port (COMx)`
    - `Universal Serial Bus Controllers → USB Serial Converter`
 
-![Диспетчер устройств](images/01-install-05-device-manager.png)
+![Диспетчер устройств](images/01-install-05-device-manager.svg)
 
 Если устройство не определилось — доустановите драйвер **FTDI VCP** (`CDM212364_Setup.exe` из комплекта).
 

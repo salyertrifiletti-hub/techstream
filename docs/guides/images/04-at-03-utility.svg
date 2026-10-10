@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" font-family="Arial, sans-serif">
+  <rect width="720" height="460" fill="#ececec"/>
+  <rect x="20" y="20" width="680" height="420" fill="#fff" stroke="#888"/>
+  <rect x="20" y="20" width="680" height="30" fill="#3b5998"/>
+  <text x="35" y="40" fill="#fff" font-size="13" font-weight="bold">Engine and ECT — Utility</text>
+
+  <!-- Tabs -->
+  <rect x="20" y="55" width="100" height="25" fill="#ddd" stroke="#aaa"/>
+  <text x="70" y="72" text-anchor="middle" font-size="12">Trouble Codes</text>
+  <rect x="120" y="55" width="100" height="25" fill="#ddd" stroke="#aaa"/>
+  <text x="170" y="72" text-anchor="middle" font-size="12">Data List</text>
+  <rect x="220" y="55" width="100" height="25" fill="#ddd" stroke="#aaa"/>
+  <text x="270" y="72" text-anchor="middle" font-size="12">Active Test</text>
+  <rect x="320" y="55" width="100" height="25" fill="#e74c3c"/>
+  <text x="370" y="72" text-anchor="middle" fill="#fff" font-size="12" font-weight="bold">Utility</text>
+
+  <!-- Utility list -->
+  <rect x="60" y="110" width="420" height="42" fill="#fff" stroke="#ccc"/>
+  <text x="80" y="137" font-size="14">▸ Reset Memory (AT Learning Value Clear)</text>
+  <rect x="60" y="152" width="420" height="42" fill="#fff8dc" stroke="#f39c12" stroke-width="2"/>
+  <text x="80" y="179" font-size="14" font-weight="bold">▸ AT Initialization</text>
+  <rect x="60" y="194" width="420" height="42" fill="#fff" stroke="#ccc"/>
+  <text x="80" y="221" font-size="14">▸ ECM Communication ID Registration</text>
+  <rect x="60" y="236" width="420" height="42" fill="#fff" stroke="#ccc"/>
+  <text x="80" y="263" font-size="14">▸ Throttle Position Reset Memory</text>
+  <rect x="60" y="278" width="420" height="42" fill="#fff" stroke="#ccc"/>
+  <text x="80" y="305" font-size="14">▸ Fuel Pump Learn Value</text>
+
+  <!-- Pointer -->
+  <path d="M 540 173 L 490 173" stroke="#c0392b" stroke-width="4" marker-end="url(#au)"/>
+  <defs>
+    <marker id="au" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+      <polygon points="0,0 12,6 0,12" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <text x="545" y="178" font-size="12" fill="#c0392b" font-weight="bold">нажать Next</text>
+
+  <!-- Next / Cancel buttons -->
+  <rect x="520" y="380" width="80" height="30" fill="#27ae60" stroke="#1e8449" rx="4"/>
+  <text x="560" y="400" text-anchor="middle" fill="#fff" font-size="12" font-weight="bold">Next</text>
+  <rect x="610" y="380" width="80" height="30" fill="#bdc3c7" stroke="#95a5a6" rx="4"/>
+  <text x="650" y="400" text-anchor="middle" font-size="12">Cancel</text>
+</svg>

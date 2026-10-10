@@ -29,7 +29,7 @@
 | **Status** | *Current* — активна, *History / Pending* — в памяти |
 | **Description** | Расшифровка |
 
-![Список DTC](images/03-dtc-03-list.png)
+![Список DTC](images/03-dtc-03-list.svg)
 
 ## Шаг 4. Сохраните снимок данных
 

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Arial, sans-serif">
+  <rect width="720" height="420" fill="#f6f6f6"/>
+  <text x="360" y="30" text-anchor="middle" font-size="18" font-weight="bold">
+    Порядок прокачки тормозов (от дальнего суппорта)
+  </text>
+
+  <!-- Car top-down -->
+  <rect x="200" y="80" width="320" height="260" fill="#dfe6e9" stroke="#636e72" stroke-width="3" rx="20"/>
+  <!-- windshield -->
+  <polygon points="220,100 500,100 480,160 240,160" fill="#aed6f1"/>
+  <polygon points="240,260 480,260 500,320 220,320" fill="#aed6f1"/>
+  <!-- cabin divider -->
+  <line x1="220" y1="210" x2="500" y2="210" stroke="#636e72" stroke-dasharray="4 4"/>
+
+  <text x="360" y="215" text-anchor="middle" font-size="11" fill="#636e72">перёд ↑</text>
+
+  <!-- Wheels + numbers -->
+  <!-- RR (first) -->
+  <rect x="150" y="260" width="40" height="60" fill="#2c3e50" rx="4"/>
+  <circle cx="170" cy="290" r="22" fill="#e74c3c" stroke="#fff" stroke-width="3"/>
+  <text x="170" y="297" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">1</text>
+  <text x="170" y="345" text-anchor="middle" font-size="12" font-weight="bold">RR — задний правый</text>
+
+  <!-- RL -->
+  <rect x="530" y="260" width="40" height="60" fill="#2c3e50" rx="4"/>
+  <circle cx="550" cy="290" r="22" fill="#e67e22" stroke="#fff" stroke-width="3"/>
+  <text x="550" y="297" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">2</text>
+  <text x="550" y="345" text-anchor="middle" font-size="12" font-weight="bold">RL — задний левый</text>
+
+  <!-- FR -->
+  <rect x="150" y="100" width="40" height="60" fill="#2c3e50" rx="4"/>
+  <circle cx="170" cy="130" r="22" fill="#f1c40f" stroke="#fff" stroke-width="3"/>
+  <text x="170" y="137" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">3</text>
+  <text x="170" y="85" text-anchor="middle" font-size="12" font-weight="bold">FR — передний правый</text>
+
+  <!-- FL -->
+  <rect x="530" y="100" width="40" height="60" fill="#2c3e50" rx="4"/>
+  <circle cx="550" cy="130" r="22" fill="#27ae60" stroke="#fff" stroke-width="3"/>
+  <text x="550" y="137" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold">4</text>
+  <text x="550" y="85" text-anchor="middle" font-size="12" font-weight="bold">FL — передний левый</text>
+
+  <!-- ГТЦ -->
+  <rect x="320" y="130" width="80" height="40" fill="#34495e" stroke="#2c3e50"/>
+  <text x="360" y="155" text-anchor="middle" fill="#fff" font-size="11">ГТЦ</text>
+
+  <text x="360" y="400" text-anchor="middle" font-size="11" fill="#555">
+    Правило: начинаем с колеса, самого дальнего от главного тормозного цилиндра
+  </text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" font-family="Arial, sans-serif">
+  <rect width="700" height="440" fill="#ececec"/>
+  <!-- Window frame -->
+  <rect x="20" y="20" width="660" height="400" fill="#fff" stroke="#888"/>
+  <rect x="20" y="20" width="660" height="30" fill="#3b5998"/>
+  <text x="35" y="40" fill="#fff" font-size="14" font-weight="bold">TIS Techstream — Main Menu</text>
+  <circle cx="650" cy="35" r="7" fill="#e74c3c"/>
+  <circle cx="630" cy="35" r="7" fill="#f1c40f"/>
+  <circle cx="610" cy="35" r="7" fill="#2ecc71"/>
+
+  <!-- Menu bar -->
+  <rect x="20" y="50" width="660" height="25" fill="#f0f0f0" stroke="#ccc"/>
+  <text x="35" y="68" font-size="12">File   View   Function   Setup   User   Help</text>
+
+  <!-- Big connect button (highlighted) -->
+  <rect x="60" y="110" width="260" height="140" fill="#2980b9" stroke="#1b4f72" stroke-width="3" rx="8"/>
+  <text x="190" y="170" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">Connect to</text>
+  <text x="190" y="200" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">Vehicle</text>
+  <text x="190" y="230" text-anchor="middle" fill="#fff" font-size="12">(нажмите эту кнопку)</text>
+
+  <!-- Pointer arrow -->
+  <path d="M 30 180 L 55 180" stroke="#c0392b" stroke-width="4" marker-end="url(#arr2)"/>
+  <defs>
+    <marker id="arr2" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+      <polygon points="0,0 12,6 0,12" fill="#c0392b"/>
+    </marker>
+  </defs>
+
+  <!-- Right-side info panel -->
+  <rect x="360" y="110" width="280" height="140" fill="#fafafa" stroke="#ccc"/>
+  <text x="380" y="135" font-size="13" font-weight="bold">Техническая информация</text>
+  <text x="380" y="160" font-size="11">VIM Status: VIM OK</text>
+  <text x="380" y="180" font-size="11">Interface: MINI VCI</text>
+  <text x="380" y="200" font-size="11">Techstream Version: 18.00.008</text>
+  <text x="380" y="220" font-size="11">Area: Europe</text>
+
+  <!-- Status bar -->
+  <rect x="20" y="390" width="660" height="30" fill="#e8e8e8" stroke="#ccc"/>
+  <text x="35" y="410" font-size="11">Ready</text>
+  <circle cx="640" cy="405" r="7" fill="#2ecc71"/>
+  <text x="595" y="410" font-size="11">Online</text>
+</svg>

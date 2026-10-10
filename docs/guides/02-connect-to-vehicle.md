@@ -15,13 +15,13 @@
 4. **Теперь** подключите OBD-разъём кабеля в автомобиль.
 5. Поверните ключ зажигания в положение **IG-ON** (вторая позиция, без запуска двигателя).
 
-![Разъём OBD-II под рулевой колонкой](images/02-connect-01-obd-port.png)
+![Разъём OBD-II под рулевой колонкой](images/02-connect-01-obd-port.svg)
 
 ## Шаг 1. Запуск сессии
 
 На главном экране TechStream нажмите **Connect to Vehicle** (большая кнопка слева).
 
-![Главное меню Connect to Vehicle](images/02-connect-02-main-menu.png)
+![Главное меню Connect to Vehicle](images/02-connect-02-main-menu.svg)
 
 ## Шаг 2. Выбор модели и года
 
@@ -55,7 +55,7 @@
 
 Зелёный значок — связь установлена, серый — блок не отвечает / не установлен.
 
-![System Select](images/02-connect-05-system-select.png)
+![System Select](images/02-connect-05-system-select.svg)
 
 ## Шаг 5. Безопасное отключение
 

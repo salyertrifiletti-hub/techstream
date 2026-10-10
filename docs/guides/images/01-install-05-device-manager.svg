@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" font-family="Arial, sans-serif">
+  <rect width="680" height="360" fill="#ececec"/>
+  <rect x="20" y="20" width="640" height="320" fill="#fff" stroke="#888"/>
+  <rect x="20" y="20" width="640" height="28" fill="#2c3e50"/>
+  <text x="35" y="38" fill="#fff" font-size="12" font-weight="bold">Диспетчер устройств</text>
+
+  <g font-size="13">
+    <text x="40" y="80">▾ 💻 DESKTOP-ABC</text>
+    <text x="60" y="105">▸ Батареи</text>
+    <text x="60" y="130">▸ Видеоадаптеры</text>
+    <text x="60" y="155" font-weight="bold" fill="#27ae60">▾ Порты (COM и LPT)</text>
+    <text x="90" y="180" fill="#27ae60">⬜ USB Serial Port (COM3) ✓</text>
+
+    <text x="60" y="210" font-weight="bold" fill="#27ae60">▾ Контроллеры USB</text>
+    <text x="90" y="235" fill="#27ae60">⬜ USB Serial Converter ✓</text>
+    <text x="90" y="258">⬜ Корневой USB-концентратор</text>
+    <text x="60" y="285">▸ Процессоры</text>
+  </g>
+
+  <!-- highlight boxes -->
+  <rect x="85" y="165" width="260" height="22" fill="none" stroke="#27ae60" stroke-width="2"/>
+  <rect x="85" y="220" width="260" height="22" fill="none" stroke="#27ae60" stroke-width="2"/>
+
+  <text x="400" y="180" font-size="11" fill="#27ae60">← оба устройства должны быть здесь</text>
+  <text x="400" y="235" font-size="11" fill="#27ae60">← без восклицательных знаков</text>
+</svg>
