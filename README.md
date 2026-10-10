@@ -17,9 +17,11 @@
 | 07 | Прокачка тормозов через Active Test (ABS) | [07-abs-bleeding.md](docs/guides/07-abs-bleeding.md) |
 | 08 | Сброс сервисного интервала и регистрация АКБ | [08-service-reset-battery.md](docs/guides/08-service-reset-battery.md) |
 
-## Источники со скриншотами
+## Полный каталог процедур
 
-Полный аннотированный список статей, форумных тем и официальных Toyota TSB — в [`SOURCES.md`](SOURCES.md). Для каждой процедуры там 2–5 ссылок на статьи, где уже есть живые скриншоты интерфейса TechStream и фотографии процедур.
+Все процедуры TechStream с прямыми ссылками на внешние пошаговые статьи и Toyota TSB со скриншотами — в [`PROCEDURES.md`](PROCEDURES.md). ~60 процедур по всем системам ECU: Powertrain, Chassis, Body, Hybrid, Reprogramming.
+
+Короткий список источников по 8 детально расписанным инструкциям — в [`SOURCES.md`](SOURCES.md).
 
 ## Как добавлять скриншоты
 
